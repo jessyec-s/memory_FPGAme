@@ -3,3 +3,5 @@
 A pattern recognition challenge ran on a FPGA board
 
 You have two seconds to determine if the card displayed on the screen matches the last one displayed. Continue playing untill you make a wrong move. 
+
+By Jane Illario and Jessye Coleman-Shapiro
